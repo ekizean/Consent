@@ -1,0 +1,14 @@
+.OuterSpace {
+  background-color: #282c34;
+}
+.Home {
+  background-color: rgb(163, 199, 200);
+  height: 600px;
+  width: 350px;
+}
+.Agreement {
+  background-color: white;
+  text-align: left;
+  width: 95%;
+  height: 40px;
+}
